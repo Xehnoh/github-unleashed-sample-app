@@ -1,5 +1,13 @@
 # Changelog
 
+## [0.0.3](https://github.com/Xehnoh/github-unleashed-sample-app/compare/v0.0.2...v0.0.3) (2025-06-24)
+
+
+### Bug Fixes
+
+* **deps:** bump org.springframework.boot:spring-boot-starter-logging ([a716671](https://github.com/Xehnoh/github-unleashed-sample-app/commit/a7166716b01dc24993c6f4faae3a250f6fef47d4))
+* **deps:** bump org.springframework.boot:spring-boot-starter-parent ([026f8e3](https://github.com/Xehnoh/github-unleashed-sample-app/commit/026f8e3f2d930b047dc5d0f955f8adb32e238298))
+
 ## [0.0.2](https://github.com/EBCONT-Conference/github-unleashed-sample-app/compare/v0.0.1...v0.0.2) (2025-05-27)
 
 
