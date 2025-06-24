@@ -1,5 +1,17 @@
 # Changelog
 
+## [0.1.0](https://github.com/Xehnoh/github-unleashed-sample-app/compare/v0.0.3...v0.1.0) (2025-06-24)
+
+
+### Features
+
+* new link ([8875d34](https://github.com/Xehnoh/github-unleashed-sample-app/commit/8875d349ff8e8cecf0833d906c77def047b6ce1f))
+
+
+### Bug Fixes
+
+* fixed header title ([417d165](https://github.com/Xehnoh/github-unleashed-sample-app/commit/417d165fd926692f98c0e46ef7c370f0d252a74d))
+
 ## [0.0.3](https://github.com/Xehnoh/github-unleashed-sample-app/compare/v0.0.2...v0.0.3) (2025-06-24)
 
 
